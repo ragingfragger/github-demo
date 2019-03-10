@@ -1,0 +1,10 @@
+/package.
+
+#BlueJ locations
+package.bluej
+team.defs
+	
+#Generated Java files
+src/*.class
+src/*.ctxt
+
