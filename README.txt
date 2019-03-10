@@ -30,6 +30,8 @@ Either approach is acceptable, and (most) anything you can do in the command lin
 - pull
 
 # Git Commands for Collaboration
+- revert 
+- reset
 - branch
 - creating pull requests 
 - getting your code reviewed
