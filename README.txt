@@ -1,18 +1,17 @@
 # github-demo
-An introduction to Git using IntelliJ CE!
+An introduction to Git using BlueJ!
 
 Git allows version control of whatever you check in. 
 It is especially useful for code repositories because it makes it easier to share code, review code, save code, and (probably) most importantly, revert code.
 
 One can version control anything! 
 
-While you can use Git in the command line, I feel like IntelliJ is more approachable and easier to visualize what is happening. 
-Either approach is acceptable, and (most) anything you can do in the command line, you can do in IntelliJ.
+While you can use Git in the command line, I feel like using an IDE is more approachable and easier to visualize what is happening. 
+Either approach is acceptable, and (most) anything you can do in the command line, you can do in an IDE.
 
 ## Installation Requirements (optional)
  - [Git](https://git-scm.com/downloads)
- - [IntelliJ CE](https://www.jetbrains.com/idea/download) 
-    - Make sure the Git plugin is enabled. In the Settings/Preferences dialog (⌘,), select Version Control | Git in the left pane and specify the path to the Git executable.
+ - [BlueJ](https://www.bluej.org/)
  - Create an account on [GitHub](https://github.com/)
     - Requires an email
 
@@ -24,19 +23,18 @@ Either approach is acceptable, and (most) anything you can do in the command lin
 - What makes it relevant for enterprise development versus side projects?
 
 
-## Demo in IntelliJ
+## Git Commands for your Projects
 - clone
-- branch
 - commit
 - push
 - pull
+
+# Git Commands for Collaboration
+- branch
 - creating pull requests 
 - getting your code reviewed
 - merging
 - merge conflicts
-
-## Try it yourself
-[Here](https://www.jetbrains.com/help/idea/using-git-integration.html) is IntelliJ's documentation of their Git plugin.
 
 
 [Here](https://git-scm.com/docs) is the official Git documentation. This is where you'll look for any questions on commands via terminal.
